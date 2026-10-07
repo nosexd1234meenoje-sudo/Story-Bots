@@ -1,0 +1,1 @@
+{"name":"storybots","version":"1.0.0","private":true,"description":"StoryBots - historias interactivas con Director de Historia, sitios y zonas","scripts":{"start":"node server.js"},"engines":{"node":">=20"}}
